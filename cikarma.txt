@@ -1,0 +1,5 @@
+
+public static void cikarma(int sayi1, int sayi2)
+
+   System.out.println("Sonuc:"+sayi1-sayi2);
+end
